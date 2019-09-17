@@ -8,5 +8,5 @@ One of the ways of Data Collection is through Web Scraping which is collection d
 
 Each project give detailed explanation of objective and steps along with any reports that were created from it.
 
-#### Table of Contents 
+### Table of Contents 
 1. Scraping Indian States Data
