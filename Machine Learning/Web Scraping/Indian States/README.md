@@ -7,32 +7,21 @@ URL: https://www.mapsofindia.com/states/
 
 #### Library Used: BeautifulSoup4
 
-### Table Synopsis
+### Table Synopsis:
 
 #### Columns : 12 
 
-State
-
-Capital
-
-Area
-
-Population
-
-Official Languages
-
-LargestCities
-
-Districts/Admin divisions
-
-Population Density
-
-Literacy Rate
-
-Urban Poppulation
-
-Sex Ratio
-
-Estd Year
+1. State
+2. Capital
+3. Area
+4. Population
+5. Official Languages
+6. LargestCities
+7. Districts/Admin divisions
+8. Population Density
+9. Literacy Rate
+10. Urban Poppulation
+11. Sex Ratio
+12. Estd Year
 
 #### Rows : 36
