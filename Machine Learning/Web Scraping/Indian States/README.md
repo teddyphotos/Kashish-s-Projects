@@ -1,13 +1,13 @@
 # Scraping Indian States
 
-### Objective:
+## Objective:
 To scrape the table available at MapsOfIndia.com giving information about all States of India and store them sequentially in Pandas DataFrame for futhur cleaning and analysis.
 
 URL: https://www.mapsofindia.com/states/
 
 #### Library Used: BeautifulSoup4
 
-### Table Synopsis:
+## Table Synopsis:
 
 #### Columns : 12 
 
@@ -25,3 +25,4 @@ URL: https://www.mapsofindia.com/states/
 12. Estd Year
 
 #### Rows : 36
+#### Code Format: iPython Notebook (Jupyter Notebook)
