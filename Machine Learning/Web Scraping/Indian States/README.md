@@ -6,3 +6,22 @@ To scrape the table available at MapsOfIndia.com giving information about all St
 URL: https://www.mapsofindia.com/states/
 
 #### Library Used: BeautifulSoup4
+
+### Table Synopsis
+
+#### Columns : 12 
+
+State
+Capital
+Area
+Population
+Official Languages
+LargestCities
+Districts/Admin divisions
+Population Density
+Literacy Rate
+Urban Poppulation
+Sex Ratio
+Estd Year
+
+#### Rows : 36
