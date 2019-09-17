@@ -12,16 +12,27 @@ URL: https://www.mapsofindia.com/states/
 #### Columns : 12 
 
 State
+
 Capital
+
 Area
+
 Population
+
 Official Languages
+
 LargestCities
+
 Districts/Admin divisions
+
 Population Density
+
 Literacy Rate
+
 Urban Poppulation
+
 Sex Ratio
+
 Estd Year
 
 #### Rows : 36
