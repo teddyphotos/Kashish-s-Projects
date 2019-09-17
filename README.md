@@ -1,4 +1,4 @@
-# Kashish's Projects
+# Teddy's Projects
 
 Hello, 
 
